@@ -1,0 +1,25 @@
+[ {
+  "id" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2"
+}, {
+  "id" : "30273a11-1f5c-4b0a-b6a6-8c4883b43529",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "6533d3f9-211f-4640-9a9c-7b24f23811fe"
+}, {
+  "id" : "9654f540-2845-420f-83da-c248ef6b6c0c",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "4200c9ae-eda8-48c8-8024-980e8a919421"
+}, {
+  "id" : "b75a9b67-fd72-4096-af34-febe54bcf627",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "510ae2d9-4aa3-4652-8d1b-aff2c3e38911"
+}, {
+  "id" : "53e9ce8f-d65b-41be-aab8-56a73f0a6312",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "997d96bb-6d60-448f-bc5a-aa9c1edb29eb"
+}, {
+  "id" : "6e155559-1a3e-49d0-a142-b9cfcafa73a2",
+  "user1Id" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "user2Id" : "a2bda311-290a-419a-b51b-da92e85b6551"
+} ]

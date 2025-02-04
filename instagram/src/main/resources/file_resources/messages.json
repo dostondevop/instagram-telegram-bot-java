@@ -1,0 +1,105 @@
+[ {
+  "id" : "269c2743-8f6c-434b-8fcd-5f3c6485723b",
+  "text" : "Hello!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725708089496
+}, {
+  "id" : "69770a39-7c25-486d-89d8-7695944d09e8",
+  "text" : "How are you?",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725709392592
+}, {
+  "id" : "5ee4aee1-230f-4198-95e0-a99ac3506e1d",
+  "text" : null,
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : "instagram/src/main/resources/message_resources/AgACAgIAAxkBAAIQTmbcPO0-SKwsEzJFJ6tIHFrb9qc9AAJ84jEbN1PpSh-Xev_RCtDdAQADAgADeAADNgQ.jpg",
+  "postType" : "PHOTO",
+  "createdDate" : 1725709550715
+}, {
+  "id" : "889ba8a0-a870-4e67-b8b0-f2aca78627c4",
+  "text" : "Can you meet with me today?",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725709592498
+}, {
+  "id" : "7be0b70c-7434-4b96-b575-f4420a73b797",
+  "text" : "We can meet in Tashkent city.",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725709901134
+}, {
+  "id" : "3119e62d-75e5-4a71-9102-7393e4cdd17b",
+  "text" : "do You have free time?",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725709947305
+}, {
+  "id" : "3871fab2-d36b-4888-830e-0112725cc2fc",
+  "text" : "Back",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "ade0b9fa-0719-4ebc-8a14-f1636d171ec9",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717093202
+}, {
+  "id" : "868068ad-4f15-455a-aa5e-f1945369c0a7",
+  "text" : "Hello bro!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "30273a11-1f5c-4b0a-b6a6-8c4883b43529",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717217185
+}, {
+  "id" : "f34a87b0-7edd-4582-9de4-07facae616a6",
+  "text" : "Back",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "30273a11-1f5c-4b0a-b6a6-8c4883b43529",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717225878
+}, {
+  "id" : "598e21fd-9cf8-44c8-a4ce-eae4927db4a0",
+  "text" : "Hello!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "9654f540-2845-420f-83da-c248ef6b6c0c",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717588824
+}, {
+  "id" : "53ec8fbb-53da-4970-8aa3-de8ac6f6de50",
+  "text" : "Hello!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "b75a9b67-fd72-4096-af34-febe54bcf627",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717624571
+}, {
+  "id" : "feed8120-1804-40eb-b54e-10f9413501e0",
+  "text" : "Hello!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "53e9ce8f-d65b-41be-aab8-56a73f0a6312",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717643711
+}, {
+  "id" : "094f5038-21db-4b66-91c3-7c56fde41415",
+  "text" : "Hello!",
+  "fromId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "toChatId" : "6e155559-1a3e-49d0-a142-b9cfcafa73a2",
+  "path" : null,
+  "postType" : null,
+  "createdDate" : 1725717665712
+} ]

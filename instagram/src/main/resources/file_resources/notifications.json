@@ -1,0 +1,428 @@
+[ {
+  "id" : "bf7c6362-80c0-4f18-bd40-450d0cb0608a",
+  "clpId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "notificationType" : "FOLLOW",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725167163349
+}, {
+  "id" : "0f4b4177-8a5b-4cb1-88ef-3809f2ef4263",
+  "clpId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "notificationType" : "FOLLOW",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Jasper_01",
+  "createdDate" : 1725358177051
+}, {
+  "id" : "4c417ac7-bd18-4cb9-91e1-894fd8e04d16",
+  "clpId" : "26cc985d-82f5-425f-8923-be496a2c75c5",
+  "notificationType" : "LIKE",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Jasper_01",
+  "createdDate" : 1725358527421
+}, {
+  "id" : "54f534cf-f96e-4f34-b670-d78eb1d4b9b1",
+  "clpId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "notificationType" : "FOLLOW",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725358860802
+}, {
+  "id" : "4239a922-48da-4d69-a595-e3c6d21eb479",
+  "clpId" : "4200c9ae-eda8-48c8-8024-980e8a919421",
+  "notificationType" : "FOLLOW",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "mdm",
+  "createdDate" : 1725359336953
+}, {
+  "id" : "9c538746-73fc-4e22-af36-8835158dd50f",
+  "clpId" : "6275a6ff-54ee-4438-82ab-eb9473a2e48f",
+  "notificationType" : "LIKE",
+  "userId" : "4200c9ae-eda8-48c8-8024-980e8a919421",
+  "username" : "mdm",
+  "createdDate" : 1725359395218
+}, {
+  "id" : "fd68b7f4-1fec-4b02-9bba-99bf1fcd2a8b",
+  "clpId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "notificationType" : "FOLLOW",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "asadulla",
+  "createdDate" : 1725466508077
+}, {
+  "id" : "5297c3a3-0ee4-43f0-9d63-2eef747a2164",
+  "clpId" : "49fbd4d4-b0f3-4fc9-9d8a-9877fc86a36d",
+  "notificationType" : "LIKE",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "asadulla",
+  "createdDate" : 1725466603831
+}, {
+  "id" : "3e14f4ae-ded1-4a7d-987a-31275b36b6cf",
+  "clpId" : "73f8e368-7878-42bf-b922-9f5af5894108",
+  "notificationType" : "LIKE",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "asadulla",
+  "createdDate" : 1725466617665
+}, {
+  "id" : "2480401a-5b7c-4a34-bb2a-51b7d6e45b96",
+  "clpId" : "d40c85f9-20db-4d50-b03f-11ac100f0a59",
+  "notificationType" : "LIKE",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "asadulla",
+  "createdDate" : 1725466621642
+}, {
+  "id" : "a59e351b-20fd-4a95-8a7b-cdfb46297f4c",
+  "clpId" : "14ee3d63-e4c1-48a7-b415-3a6f9ad479c7",
+  "notificationType" : "LIKE",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "doston",
+  "createdDate" : 1725528131832
+}, {
+  "id" : "7bf3dcd5-83d6-4359-9926-5fd0d651c562",
+  "clpId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "notificationType" : "FOLLOW",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "doston",
+  "createdDate" : 1725528179345
+}, {
+  "id" : "0207fe28-e198-42d9-850b-989fb77333da",
+  "clpId" : "4200c9ae-eda8-48c8-8024-980e8a919421",
+  "notificationType" : "FOLLOW",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "madaminqahramonov7",
+  "createdDate" : 1725528338093
+}, {
+  "id" : "b3a55851-93c7-406d-af11-5376935ea811",
+  "clpId" : "c3da1bea-def0-46d0-91ad-38c44b0dbecb",
+  "notificationType" : "LIKE",
+  "userId" : "4200c9ae-eda8-48c8-8024-980e8a919421",
+  "username" : "madaminqahramonov7",
+  "createdDate" : 1725528490999
+}, {
+  "id" : "d74d615d-3f96-442a-8db1-2eb38e1626da",
+  "clpId" : "80c47715-28c1-4311-b840-5615476704db",
+  "notificationType" : "COMMENT",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Jasper_01",
+  "createdDate" : 1725528524731
+}, {
+  "id" : "bdbd4070-a920-4f7f-a0d6-3a2abdf8684c",
+  "clpId" : "a2bda311-290a-419a-b51b-da92e85b6551",
+  "notificationType" : "FOLLOW",
+  "userId" : "4200c9ae-eda8-48c8-8024-980e8a919421",
+  "username" : "Nono",
+  "createdDate" : 1725530149863
+}, {
+  "id" : "c7524c51-6698-4c68-a113-6c63403713db",
+  "clpId" : "a2bda311-290a-419a-b51b-da92e85b6551",
+  "notificationType" : "FOLLOW",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Nono",
+  "createdDate" : 1725530164185
+}, {
+  "id" : "3c15fa91-4e5a-482a-ab66-f56fc5ea3d13",
+  "clpId" : "a2bda311-290a-419a-b51b-da92e85b6551",
+  "notificationType" : "FOLLOW",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Nono",
+  "createdDate" : 1725530185058
+}, {
+  "id" : "501a821c-5071-4607-ab2a-e71e0b77a49a",
+  "clpId" : "a2bda311-290a-419a-b51b-da92e85b6551",
+  "notificationType" : "FOLLOW",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725530249675
+}, {
+  "id" : "46476a6c-d9ba-4511-91a9-afadd80e41a5",
+  "clpId" : "4454b58f-b227-4f99-86ac-30604ca6a44a",
+  "notificationType" : "LIKE",
+  "userId" : "a2bda311-290a-419a-b51b-da92e85b6551",
+  "username" : "Nono",
+  "createdDate" : 1725531575708
+}, {
+  "id" : "02c2c444-055c-48db-bce7-a1e78f81e8ab",
+  "clpId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "notificationType" : "FOLLOW",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725610232397
+}, {
+  "id" : "c6198244-d808-4257-a0e9-5318b6d22e07",
+  "clpId" : "62f154d9-c1dc-4924-982b-3f04a99a8217",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725611081959
+}, {
+  "id" : "fe8b0cc0-a027-4e2b-9ddb-aae6c72baf5a",
+  "clpId" : "55bf3920-b06b-499a-90d7-5dc4c2888a0f",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725613028767
+}, {
+  "id" : "254337c9-751e-4498-ba0d-8dd4e7b23edf",
+  "clpId" : "55bf3920-b06b-499a-90d7-5dc4c2888a0f",
+  "notificationType" : "POST",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "Azick0501",
+  "createdDate" : 1725613028772
+}, {
+  "id" : "cc042112-cb9b-4cc6-a8c8-162f2aa1de41",
+  "clpId" : "55bf3920-b06b-499a-90d7-5dc4c2888a0f",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725613028777
+}, {
+  "id" : "dd700409-e3ba-4542-8e7b-78c77984bb25",
+  "clpId" : "afddb49d-98ed-4a84-a666-cf12a6921c08",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725613124002
+}, {
+  "id" : "243756c0-0742-44c8-b72f-82f17dac0910",
+  "clpId" : "afddb49d-98ed-4a84-a666-cf12a6921c08",
+  "notificationType" : "POST",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "Azick0501",
+  "createdDate" : 1725613124005
+}, {
+  "id" : "02399d69-c810-4da4-afc6-f3ad1e0c17c4",
+  "clpId" : "afddb49d-98ed-4a84-a666-cf12a6921c08",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725613124007
+}, {
+  "id" : "6e81e676-b221-4325-99c4-d88ee5f15cf7",
+  "clpId" : "4fb8df31-98b0-4525-a58f-35cfd80d72bb",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725613148647
+}, {
+  "id" : "63e89582-6489-4f07-9ba0-03eccd42ba43",
+  "clpId" : "4fb8df31-98b0-4525-a58f-35cfd80d72bb",
+  "notificationType" : "POST",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "Azick0501",
+  "createdDate" : 1725613148648
+}, {
+  "id" : "3297e670-d6fc-4065-9e50-2dc00ff46b4c",
+  "clpId" : "4fb8df31-98b0-4525-a58f-35cfd80d72bb",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725613148650
+}, {
+  "id" : "1be0cedb-0bc2-4fdd-aaef-51d0f101124e",
+  "clpId" : "f9bf2b88-4dfd-4b3d-b4ee-d94e8d014a1d",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725615263077
+}, {
+  "id" : "fe6b3f3a-3cf6-4831-be39-f7ddc4e7807a",
+  "clpId" : "6a9bd494-f1db-4038-a848-cfb41bf3b241",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725615289830
+}, {
+  "id" : "226f6ff0-7100-4179-95e2-b9b8a5cf8796",
+  "clpId" : "6a9bd494-f1db-4038-a848-cfb41bf3b241",
+  "notificationType" : "POST",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "Azick0501",
+  "createdDate" : 1725615289833
+}, {
+  "id" : "9c1cd362-2da6-4328-a375-cb62b7c8e88e",
+  "clpId" : "6a9bd494-f1db-4038-a848-cfb41bf3b241",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725615289838
+}, {
+  "id" : "91baae4e-dd8e-43c3-8be8-947aaa94b322",
+  "clpId" : "4694252a-2032-4940-8508-1ddbc3bbb28d",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725615318566
+}, {
+  "id" : "4f4a765d-9439-4fe3-92fb-5ea5d32827e9",
+  "clpId" : "4694252a-2032-4940-8508-1ddbc3bbb28d",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725615318572
+}, {
+  "id" : "37cc9ad3-56a3-47d7-995f-d63900517e97",
+  "clpId" : "2b0a5a18-dc9e-47fa-80e9-eb8483b05f93",
+  "notificationType" : "POST",
+  "userId" : "6533d3f9-211f-4640-9a9c-7b24f23811fe",
+  "username" : "Azick0501",
+  "createdDate" : 1725615345418
+}, {
+  "id" : "c4d7386e-1d1d-4d9f-868d-e0c95046e342",
+  "clpId" : "2b0a5a18-dc9e-47fa-80e9-eb8483b05f93",
+  "notificationType" : "POST",
+  "userId" : "058f5c5d-faf8-46cd-9dd2-4f70fd3d58db",
+  "username" : "Azick0501",
+  "createdDate" : 1725615345424
+}, {
+  "id" : "26a3d28c-397f-4ea1-a80d-1c49d6918f26",
+  "clpId" : "d1cab031-5050-4de7-bc84-e435716529e1",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725615629592
+}, {
+  "id" : "9842db9e-5125-4f84-8364-8ffdc524292a",
+  "clpId" : "a3413379-523e-4fc4-a54b-e648e034dc13",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725615636109
+}, {
+  "id" : "c070a95e-11cd-4128-bd8a-14dce2fa9faa",
+  "clpId" : "59701f0f-6837-4283-86ac-51275376b8a8",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725615640916
+}, {
+  "id" : "19dc4b51-2eb1-456b-b845-65bff0923a6f",
+  "clpId" : "deeb02b8-8a70-4400-9e15-f0c5afd8f3f2",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "Nono",
+  "createdDate" : 1725615716141
+}, {
+  "id" : "913283b1-0131-4893-a00c-4f50e9e531e6",
+  "clpId" : "55d16f40-b180-48fd-b96f-457818876a7f",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "Nono",
+  "createdDate" : 1725615719901
+}, {
+  "id" : "22eec753-417f-46a7-a34b-a4402f1b0a57",
+  "clpId" : "99b3f0c2-f550-4b3c-83e3-193c1c1a8e29",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "asadulla",
+  "createdDate" : 1725615826167
+}, {
+  "id" : "45edc1d8-b0bb-4b4f-b98b-9f2897bd7f85",
+  "clpId" : "5e9a9cc8-c53f-45bf-a3d3-d58a0d658a8e",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "madaminqahramonov7",
+  "createdDate" : 1725615853815
+}, {
+  "id" : "3c037b70-e92f-4a2c-8335-980d35637c48",
+  "clpId" : "9b1a6fab-922f-4599-a018-f4691cc70a26",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "madaminqahramonov7",
+  "createdDate" : 1725615863749
+}, {
+  "id" : "718f007e-4ab8-40fe-835b-439be99c59c8",
+  "clpId" : "3629c13d-858f-406b-a48b-e5e94193bd30",
+  "notificationType" : "COMMENT",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "asadulla",
+  "createdDate" : 1725615867908
+}, {
+  "id" : "604f42ec-745f-48be-a4e6-8e974b9691ad",
+  "clpId" : "5ad9eecd-db31-47ab-b26e-fd0aaefc6998",
+  "notificationType" : "COMMENT",
+  "userId" : "be045705-c8b2-48d7-a6c8-adfc7228142b",
+  "username" : "asadulla",
+  "createdDate" : 1725615877265
+}, {
+  "id" : "c419e4f1-adaa-4260-84f9-22f65f840d67",
+  "clpId" : "61765122-7a60-4527-8a6e-dd7ee56886b2",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "Saydirasulov",
+  "createdDate" : 1725615931968
+}, {
+  "id" : "56203905-d0d2-45ab-82c4-78dba3ac66ef",
+  "clpId" : "80b04580-2b2e-468c-b05c-6b9ec611aeb3",
+  "notificationType" : "LIKE",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "zarif",
+  "createdDate" : 1725724984518
+}, {
+  "id" : "0fffbfc8-d9c3-4e79-92e1-984304d19d38",
+  "clpId" : "cfb2b89c-4ac0-4b06-9a44-00af375e475d",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725812600168
+}, {
+  "id" : "9b3ff867-e0dc-44d4-9d7b-4ce7d6d025a1",
+  "clpId" : "8477bc88-cf47-45b2-81bd-a5de1e5fff3c",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725815997211
+}, {
+  "id" : "c61691f9-26a6-403e-9d5a-893f9a32156a",
+  "clpId" : "aa541184-16a1-4153-845c-7ae9606a460d",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725873947829
+}, {
+  "id" : "fcc875b0-ad07-4fcd-b3f8-641e4e2ebb5a",
+  "clpId" : "58eafee2-dda3-4fed-9663-140da1aa03c8",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725873951183
+}, {
+  "id" : "015c5663-0734-462d-a437-9654d391f07a",
+  "clpId" : "e79c3213-d13e-4037-a65d-e00ba958c5fc",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725873974316
+}, {
+  "id" : "b496d461-961e-4e55-86a0-ebf10278f4f7",
+  "clpId" : "f569e2d5-f8c7-452e-b296-e88f98945cd0",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "Nono",
+  "createdDate" : 1725873987430
+}, {
+  "id" : "173dcc11-3ebe-496d-ba24-080529b4757b",
+  "clpId" : "6962289e-d3db-4a4d-98a5-a074a942cca2",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725874082239
+}, {
+  "id" : "d034053a-c59a-42ef-88d3-bb51f9a1de62",
+  "clpId" : "97a6841e-c73a-4768-a3da-79362cbc0ae7",
+  "notificationType" : "LIKE",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "sardor0304",
+  "createdDate" : 1725874208925
+}, {
+  "id" : "f1c0a629-eda6-46e9-916b-823d6f366c19",
+  "clpId" : "a63fe71c-7d3b-4f02-809a-6fc96cdf4287",
+  "notificationType" : "COMMENT",
+  "userId" : "b00a7fb1-9aab-4f10-8568-5b70c3180d32",
+  "username" : "madaminqahramonov7",
+  "createdDate" : 1725874513917
+}, {
+  "id" : "9e454569-157e-4212-9954-f9e3755a76a0",
+  "clpId" : "fc11e39b-915e-4605-9474-d99016a4a419",
+  "notificationType" : "COMMENT",
+  "userId" : "2dd95761-4ca6-41c5-92d0-273374bbd7b2",
+  "username" : "zuhaadmin",
+  "createdDate" : 1725876428992
+} ]
