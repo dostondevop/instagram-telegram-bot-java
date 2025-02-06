@@ -2,7 +2,6 @@ package com.doston.bot.factory;
 
 import com.doston.enumeration.NotificationType;
 import com.doston.model.Notification;
-
 import java.util.Date;
 import java.util.UUID;
 

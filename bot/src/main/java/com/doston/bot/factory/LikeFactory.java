@@ -1,7 +1,6 @@
 package com.doston.bot.factory;
 
 import com.doston.model.Like;
-
 import java.util.Date;
 import java.util.UUID;
 

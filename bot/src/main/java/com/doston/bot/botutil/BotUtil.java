@@ -79,24 +79,6 @@ public class BotUtil {
         return button;
     }
 
-    public static ReplyKeyboardMarkup getRequestPhoneNumberKeyboard() {
-        KeyboardButton button = new KeyboardButton("Share your phone number");
-        button.setRequestContact(true);
-
-        KeyboardRow row = new KeyboardRow();
-        row.add(button);
-
-        List<KeyboardRow> keyboardRows = new ArrayList<>();
-        keyboardRows.add(row);
-
-        ReplyKeyboardMarkup keyboardMarkup = new ReplyKeyboardMarkup();
-        keyboardMarkup.setKeyboard(keyboardRows);
-        keyboardMarkup.setResizeKeyboard(true);
-        keyboardMarkup.setOneTimeKeyboard(true);
-
-        return keyboardMarkup;
-    }
-
     public SendMessage buildSendMessage(Long chatId, String text) {
         SendMessage sendMessage = new SendMessage();
         sendMessage.setChatId(chatId);

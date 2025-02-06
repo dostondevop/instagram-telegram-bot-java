@@ -138,9 +138,7 @@ public class Bot extends TelegramLongPollingBot {
                     executeSendMessage(followBotService.searchPage(chatId));
                 }
                 case SEARCH_USERNAME -> executeSendMessage(followBotService.showUser(chatId, text));
-                case ADD_POST -> {
-                    post(chatId, message, userState);
-                }
+                case ADD_POST -> post(chatId, message, userState);
                 case ACCOUNT -> {
                     executeSendMessage(homeBotService.handleHome(chatId, userState, text));
                     UUID userId = accountBotService.getUserId(chatId);
@@ -251,7 +249,6 @@ public class Bot extends TelegramLongPollingBot {
                 } else {
                     userStateBotService.setUserState(chatId, UserState.HOST_FOLLOWERS);
                 }
-                System.out.println(userPrevState);
                 followBotService.setIndexMap(chatId, 0);
                 UUID userId = UUID.fromString(callBackData);
                 Integer integer = executeSendMessage(followBotService.followersList(chatId, userId));
@@ -330,18 +327,10 @@ public class Bot extends TelegramLongPollingBot {
         } else {
 
             switch (registerStep) {
-                case FIRST -> {
-                    executeSendMessage(registerBotService.manuallyOrAutomaticRequest(chatId));
-                }
-                case NAME -> {
-                    executeSendMessage(registerBotService.nameMethod(chatId, text));
-                }
-                case USERNAME -> {
-                    executeSendMessage(registerBotService.userNameMethod(chatId, text));
-                }
-                case PHONE_NUMBER -> {
-                    executeSendMessage(registerBotService.phoneNumberMethod(chatId, text));
-                }
+                case FIRST -> executeSendMessage(registerBotService.manuallyOrAutomaticRequest(chatId));
+                case NAME -> executeSendMessage(registerBotService.nameMethod(chatId, text));
+                case USERNAME -> executeSendMessage(registerBotService.userNameMethod(chatId, text));
+                case PHONE_NUMBER -> executeSendMessage(registerBotService.phoneNumberMethod(chatId, text));
                 case PASSWORD -> {
                     executeSendMessage(registerBotService.passwordMethod(chatId, text));
                     executeSendMessage(loginBotService.loginPage(chatId));
@@ -390,15 +379,9 @@ public class Bot extends TelegramLongPollingBot {
                 executeSendMessage(homeBotService.handleHome(chatId, userState, text));
                 executeSendMessage(postBotService.createNewPost(chatId));
             }
-            case TITLE -> {
-                executeSendMessage(postBotService.setTitle(chatId, text));
-            }
-            case LOCATION -> {
-                executeSendMessage(postBotService.setLocation(chatId, text));
-            }
-            case IMAGE -> {
-                setImage(message, chatId);
-            }
+            case TITLE -> executeSendMessage(postBotService.setTitle(chatId, text));
+            case LOCATION -> executeSendMessage(postBotService.setLocation(chatId, text));
+            case IMAGE -> setImage(message, chatId);
         }
     }
 
@@ -718,9 +701,7 @@ public class Bot extends TelegramLongPollingBot {
                 executeSendMessage(accountBotService.printSettingsPage(chatId));
             }
             case CHAT -> chats(chatId, text);
-            case POSTS -> {
-                userStateBotService.setUserState(chatId, UserState.ACCOUNT);
-            }
+            case POSTS -> userStateBotService.setUserState(chatId, UserState.ACCOUNT);
             case HOST_POSTS, HOST_CHAT, HOST_FOLLOWERS, HOST_FOLLOWINGS -> {
                 userStateBotService.setUserState(chatId, UserState.HOST_ACCOUNT);
                 UUID userId = userStateBotService.getCurrentHostId(chatId);

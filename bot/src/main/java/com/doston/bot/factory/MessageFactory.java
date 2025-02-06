@@ -2,7 +2,6 @@ package com.doston.bot.factory;
 
 import com.doston.enumeration.PostType;
 import com.doston.model.Message;
-
 import java.util.Date;
 import java.util.UUID;
 

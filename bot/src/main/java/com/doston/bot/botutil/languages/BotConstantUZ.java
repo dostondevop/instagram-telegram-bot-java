@@ -72,7 +72,6 @@ public interface BotConstantUZ {
     String POST_IS_SUCCESSFULLY_ADDED = "Post muvaffaqiyatli qo'shildi.";
     String YOU_HAVE_SUCCESSFULLY_REGISTERED = "Siz muvaffaqiyatli ro'yhatdan o'tdingiz.";
     String FIRSTLY_CHOOSE = "Birinchi bo'lib, tanlang:";
-    String PLEASE_SHARE_YOUR_PHONE_NUMBER = "Iltimos, telefon raqamingizni ulashing.";
     String LOCATION = "joylashuvi: ";
     String TITLE = "nomi: ";
     String COMMENTS = "Izohlar";

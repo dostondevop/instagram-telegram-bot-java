@@ -73,7 +73,6 @@ public interface BotConstantENG {
     String POST_IS_SUCCESSFULLY_ADDED = "Post is successfully added.";
     String YOU_HAVE_SUCCESSFULLY_REGISTERED = "You have successfully registered.";
     String FIRSTLY_CHOOSE = "Firstly, choose:";
-    String PLEASE_SHARE_YOUR_PHONE_NUMBER = "Please, share your phoneNumber.";
     String LOCATION = "location: ";
     String TITLE = "title: ";
     String COMMENTS = "Comments";

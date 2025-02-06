@@ -72,7 +72,6 @@ public interface BotConstantRU {
     String POST_IS_SUCCESSFULLY_ADDED = "Пост успешно добавлен.";
     String YOU_HAVE_SUCCESSFULLY_REGISTERED = "Вы успешно зарегистрировались.";
     String FIRSTLY_CHOOSE = "Во-первых, выберите:";
-    String PLEASE_SHARE_YOUR_PHONE_NUMBER = "Пожалуйста, поделитесь своим номером телефона.";
     String LOCATION = "местополежение: ";
     String TITLE = "название: ";
     String COMMENTS = "Комменты";

@@ -1,7 +1,6 @@
 package com.doston.bot.factory;
 
 import com.doston.model.Chat;
-
 import java.util.UUID;
 
 public class ChatFactory {

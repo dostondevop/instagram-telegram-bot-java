@@ -99,13 +99,6 @@ public class RegisterBotService {
         return sendMessage;
     }
 
-    public SendMessage sendRequestForContact(Long chatId) {
-        SendMessage sendMessage = BotUtil.buildSendMessage(chatId, BotConstant.getPleaseShareYourPhoneNumber(chatId));
-
-        sendMessage.setReplyMarkup(BotUtil.getRequestPhoneNumberKeyboard());
-        return sendMessage;
-    }
-
     public void deleteRegisterFromMap(Long chatId) {
         userMap.remove(chatId);
     }

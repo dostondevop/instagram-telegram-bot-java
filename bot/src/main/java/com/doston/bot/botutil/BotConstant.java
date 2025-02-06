@@ -766,16 +766,6 @@ public class BotConstant {
         }
     }
 
-    public String getPleaseShareYourPhoneNumber(Long chatId) {
-        if (Language.RU.equals(getUserLanguage(chatId))) {
-            return BotConstantRU.PLEASE_SHARE_YOUR_PHONE_NUMBER;
-        } else if (Language.UZ.equals(getUserLanguage(chatId))) {
-            return BotConstantUZ.PLEASE_SHARE_YOUR_PHONE_NUMBER;
-        } else {
-            return BotConstantENG.PLEASE_SHARE_YOUR_PHONE_NUMBER;
-        }
-    }
-
     public String getLocation(Long chatId) {
         if (Language.RU.equals(getUserLanguage(chatId))) {
             return BotConstantRU.LOCATION;

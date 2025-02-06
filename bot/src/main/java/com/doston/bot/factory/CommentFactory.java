@@ -2,7 +2,6 @@ package com.doston.bot.factory;
 
 import com.doston.model.Comment;
 import com.doston.model.User;
-
 import java.util.Date;
 import java.util.UUID;
 
