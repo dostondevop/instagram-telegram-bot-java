@@ -1,4 +1,4 @@
-InstagramBot 🤖📸
+Instagram 🤖📸
 
 InstagramBot is a feature-rich Telegram bot written in Java, inspired by the core functionalities of Instagram. 
 With this bot, users can enjoy a seamless social media experience within Telegram, 
@@ -10,7 +10,7 @@ Features ✨
 
 Post Creation: Share your thoughts, images, or updates with followers.
 Liking and Commenting: Interact with posts by liking or leaving meaningful comments.
-Follow/Unfollow: Build your network by following other users or unfollowing them.
+Follow/Unfollow: Build your network by following or unfollowing other users.
 Content Feed: Browse posts shared by the people you follow.
 User-Friendly Interface: Easy-to-use commands and smooth interactions for a great user experience.
 Why InstagramBot?
