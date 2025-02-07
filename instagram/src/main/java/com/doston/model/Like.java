@@ -6,10 +6,10 @@ import lombok.experimental.SuperBuilder;
 import java.util.Date;
 import java.util.UUID;
 
+@Data
+@SuperBuilder
 @NoArgsConstructor
 @AllArgsConstructor
-@SuperBuilder
-@Data
 @EqualsAndHashCode(callSuper = true)
 public class Like extends BaseModel {
     private UUID userId;

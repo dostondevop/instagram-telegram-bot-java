@@ -3,14 +3,13 @@ package com.doston.model;
 import com.doston.enumeration.PostType;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
-
 import java.util.Date;
 import java.util.UUID;
 
+@Data
+@SuperBuilder
 @NoArgsConstructor
 @AllArgsConstructor
-@SuperBuilder
-@Data
 @EqualsAndHashCode(callSuper = true)
 public class Message extends BaseModel {
     private String text;

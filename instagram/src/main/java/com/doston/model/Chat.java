@@ -2,13 +2,12 @@ package com.doston.model;
 
 import lombok.*;
 import lombok.experimental.SuperBuilder;
-
 import java.util.UUID;
 
+@Data
+@SuperBuilder
 @NoArgsConstructor
 @AllArgsConstructor
-@SuperBuilder
-@Data
 @EqualsAndHashCode(callSuper = true)
 public class Chat extends BaseModel {
     private UUID user1Id;
