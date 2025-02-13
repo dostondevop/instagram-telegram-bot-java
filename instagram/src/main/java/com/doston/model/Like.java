@@ -1,10 +1,9 @@
 package com.doston.model;
 
 import lombok.*;
-import lombok.experimental.SuperBuilder;
-
 import java.util.Date;
 import java.util.UUID;
+import lombok.experimental.SuperBuilder;
 
 @Data
 @SuperBuilder
@@ -13,7 +12,7 @@ import java.util.UUID;
 @EqualsAndHashCode(callSuper = true)
 public class Like extends BaseModel {
     private UUID userId;
-    private String username;
     private UUID postId;
+    private String username;
     private Date createdDate;
 }

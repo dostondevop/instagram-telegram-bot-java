@@ -1,15 +1,13 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Comment;
-import com.doston.service.util.JsonUtil;
-
 import java.util.List;
 import java.util.UUID;
+import com.doston.model.Comment;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class CommentService implements BaseService<Comment, UUID> {
-
     private static final String PATH = "instagram/src/main/resources/file_resources/comments.json";
 
     @Override
@@ -28,6 +26,7 @@ public class CommentService implements BaseService<Comment, UUID> {
                 .ifPresent(comment1 -> {
                     comment1.setText(comment.getText());
                 });
+
         write(comments);
         return comment;
     }

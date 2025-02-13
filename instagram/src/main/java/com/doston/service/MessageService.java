@@ -1,15 +1,13 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Message;
-import com.doston.service.util.JsonUtil;
-
 import java.util.List;
 import java.util.UUID;
+import com.doston.model.Message;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class MessageService implements BaseService<Message, UUID> {
-
     private static final String PATH = "instagram/src/main/resources/file_resources/messages.json";
 
     @Override

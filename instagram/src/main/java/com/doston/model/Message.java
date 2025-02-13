@@ -1,10 +1,10 @@
 package com.doston.model;
 
-import com.doston.enumeration.PostType;
 import lombok.*;
-import lombok.experimental.SuperBuilder;
 import java.util.Date;
 import java.util.UUID;
+import com.doston.enumeration.PostType;
+import lombok.experimental.SuperBuilder;
 
 @Data
 @SuperBuilder
@@ -14,8 +14,8 @@ import java.util.UUID;
 public class Message extends BaseModel {
     private String text;
     private UUID fromId;
-    private UUID toChatId;
     private String path;
+    private UUID toChatId;
     private PostType postType;
     private Date createdDate;
 }

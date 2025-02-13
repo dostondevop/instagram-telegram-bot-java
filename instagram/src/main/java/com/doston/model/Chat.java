@@ -1,8 +1,8 @@
 package com.doston.model;
 
 import lombok.*;
-import lombok.experimental.SuperBuilder;
 import java.util.UUID;
+import lombok.experimental.SuperBuilder;
 
 @Data
 @SuperBuilder

@@ -1,8 +1,7 @@
 package com.doston.service;
 
-import com.doston.model.BaseModel;
-
 import java.util.*;
+import com.doston.model.BaseModel;
 
 public interface BaseService<T extends BaseModel, R> {
 
@@ -13,6 +12,7 @@ public interface BaseService<T extends BaseModel, R> {
             write(list);
             return t;
         }
+
         throw new RuntimeException("is already exist.");
     }
 

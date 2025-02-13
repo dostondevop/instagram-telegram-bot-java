@@ -1,18 +1,16 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Follow;
-import com.doston.model.Post;
-import com.doston.service.util.JsonUtil;
-
-import java.util.List;
 import java.util.Map;
 import java.util.UUID;
+import java.util.List;
+import com.doston.model.Post;
+import com.doston.model.Follow;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class PostService implements BaseService<Post, UUID> {
     private static final String PATH = "instagram/src/main/resources/file_resources/posts.json";
-
 
     @Override
     public boolean has(List<Post> list, Post post) {

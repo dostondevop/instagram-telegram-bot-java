@@ -1,12 +1,11 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Like;
-import com.doston.service.util.JsonUtil;
-
 import java.util.List;
 import java.util.UUID;
+import com.doston.model.Like;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class LikeService implements BaseService<Like, UUID> {
     private static final PostService postService = new PostService();

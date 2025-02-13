@@ -1,14 +1,13 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
+import java.util.List;
+import java.util.UUID;
+import java.util.Objects;
 import com.doston.model.Post;
+import java.util.stream.Collectors;
 import com.doston.model.SaveContent;
 import com.doston.service.util.JsonUtil;
-
-import java.util.List;
-import java.util.Objects;
-import java.util.UUID;
-import java.util.stream.Collectors;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class SaveContentService implements BaseService<SaveContent, UUID> {
     private static final String PATH = "instagram/src/main/resources/file_resources/save_contents.json";
@@ -16,7 +15,8 @@ public class SaveContentService implements BaseService<SaveContent, UUID> {
 
     @Override
     public boolean has(List<SaveContent> list, SaveContent saveContent) {
-        return list.stream().anyMatch(saveContent1 -> saveContent1.getUserId().equals(saveContent.getUserId()) &&
+        return list.stream()
+                .anyMatch(saveContent1 -> saveContent1.getUserId().equals(saveContent.getUserId()) &&
                 saveContent1.getPostId().equals(saveContent.getPostId()));
     }
 

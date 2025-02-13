@@ -1,9 +1,9 @@
 package com.doston.model;
 
 import lombok.*;
-import lombok.experimental.SuperBuilder;
 import java.util.Date;
 import java.util.UUID;
+import lombok.experimental.SuperBuilder;
 
 @Data
 @SuperBuilder
@@ -12,10 +12,10 @@ import java.util.UUID;
 @EqualsAndHashCode(callSuper = true)
 public class Comment extends BaseModel {
     private UUID userId;
-    private String username;
     private UUID postId;
-    private UUID parentId;
     private String text;
+    private UUID parentId;
+    private String username;
     private int stepHierarchy;
     private Date createdDate;
 }

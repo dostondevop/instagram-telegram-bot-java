@@ -1,15 +1,13 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Chat;
-import com.doston.service.util.JsonUtil;
-
 import java.util.List;
 import java.util.UUID;
+import com.doston.model.Chat;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class ChatService implements BaseService<Chat, UUID> {
-
     private static final String PATH = "instagram/src/main/resources/file_resources/chats.json";
 
     @Override
