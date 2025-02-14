@@ -1,16 +1,15 @@
 package com.doston.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
+import java.util.UUID;
 import lombok.NoArgsConstructor;
+import lombok.AllArgsConstructor;
 import lombok.experimental.SuperBuilder;
 
-import java.util.UUID;
-
+@Data
+@SuperBuilder
 @NoArgsConstructor
 @AllArgsConstructor
-@SuperBuilder
-@Data
 public abstract class BaseModel {
     private UUID id;
 }

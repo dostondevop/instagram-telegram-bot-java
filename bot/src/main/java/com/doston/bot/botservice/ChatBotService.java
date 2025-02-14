@@ -1,21 +1,20 @@
 package com.doston.bot.botservice;
 
-import com.doston.bot.botutil.BotConstant;
-import com.doston.bot.botutil.BotUtil;
-import com.doston.bot.factory.ChatFactory;
-import com.doston.bot.factory.MessageFactory;
-import com.doston.enumeration.PostType;
+import java.util.*;
+import com.doston.model.User;
 import com.doston.model.Chat;
 import com.doston.model.Message;
-import com.doston.model.User;
+import com.doston.bot.botutil.BotUtil;
 import com.doston.service.ChatService;
-import com.doston.service.MessageService;
 import com.doston.service.UserService;
+import com.doston.enumeration.PostType;
+import com.doston.service.MessageService;
+import com.doston.bot.factory.ChatFactory;
+import com.doston.bot.botutil.BotConstant;
+import com.doston.bot.factory.MessageFactory;
 import org.telegram.telegrambots.meta.api.methods.ParseMode;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboard;
-
-import java.util.*;
 
 public class ChatBotService {
     private static final ChatService chatService = new ChatService();

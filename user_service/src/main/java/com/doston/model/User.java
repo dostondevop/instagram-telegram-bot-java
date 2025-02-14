@@ -1,17 +1,16 @@
 package com.doston.model;
 
+import lombok.*;
+import java.util.Date;
 import com.doston.enumeration.Gender;
 import com.doston.enumeration.Language;
-import com.doston.enumeration.RegisterStep;
-import lombok.*;
 import lombok.experimental.SuperBuilder;
+import com.doston.enumeration.RegisterStep;
 
-import java.util.Date;
-
+@Data
+@SuperBuilder
 @NoArgsConstructor
 @AllArgsConstructor
-@SuperBuilder
-@Data
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
 public class User extends BaseModel {

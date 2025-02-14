@@ -1,10 +1,10 @@
 package com.doston.enumeration;
 
 public enum RegisterStep {
-    FIRST,
     NAME,
+    FIRST,
+    FINAL,
     USERNAME,
-    PHONE_NUMBER,
     PASSWORD,
-    FINAL
+    PHONE_NUMBER
 }

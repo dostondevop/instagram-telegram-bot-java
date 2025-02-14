@@ -1,10 +1,10 @@
 package com.doston.enumeration;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.AllArgsConstructor;
 
-@AllArgsConstructor
 @Getter
+@AllArgsConstructor
 public enum Gender {
     MALE("Male", "Мужчина", "Erkak"),
     FEMALE("Female", "Женщина", "Ayol");

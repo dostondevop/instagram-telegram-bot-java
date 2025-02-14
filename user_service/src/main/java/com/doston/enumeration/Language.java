@@ -1,10 +1,10 @@
 package com.doston.enumeration;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.AllArgsConstructor;
 
-@AllArgsConstructor
 @Getter
+@AllArgsConstructor
 public enum Language {
     ENG("English", "Английский", "Inglizcha"),
     RU("Russian", "Русский", "Ruscha"),

@@ -1,13 +1,12 @@
 package com.doston.service.util;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.SerializationFeature;
-import lombok.SneakyThrows;
-import lombok.experimental.UtilityClass;
-
 import java.io.File;
 import java.util.List;
+import lombok.SneakyThrows;
+import lombok.experimental.UtilityClass;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.SerializationFeature;
 
 @UtilityClass
 public class JsonUtil {

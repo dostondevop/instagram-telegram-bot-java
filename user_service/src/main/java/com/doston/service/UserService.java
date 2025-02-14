@@ -1,14 +1,13 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.BaseModel;
-import com.doston.model.User;
-import com.doston.service.util.JsonUtil;
-
-import java.util.List;
 import java.util.Map;
 import java.util.UUID;
+import java.util.List;
+import com.doston.model.User;
+import com.doston.model.BaseModel;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class UserService implements BaseService<User, UUID> {
 

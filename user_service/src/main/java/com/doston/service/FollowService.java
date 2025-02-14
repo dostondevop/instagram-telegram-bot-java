@@ -1,13 +1,12 @@
 package com.doston.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.doston.model.Follow;
-import com.doston.service.util.JsonUtil;
-
-import java.util.List;
 import java.util.Map;
 import java.util.UUID;
+import java.util.List;
+import com.doston.model.Follow;
 import java.util.stream.Collectors;
+import com.doston.service.util.JsonUtil;
+import com.fasterxml.jackson.core.type.TypeReference;
 
 public class FollowService implements BaseService<Follow, UUID> {
 

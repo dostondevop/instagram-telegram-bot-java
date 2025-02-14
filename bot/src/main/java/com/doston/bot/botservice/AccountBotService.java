@@ -1,21 +1,20 @@
 package com.doston.bot.botservice;
 
-import com.doston.bot.botutil.BotConstant;
-import com.doston.bot.botutil.BotUtil;
-import com.doston.enumeration.Gender;
-import com.doston.enumeration.Language;
+import java.util.*;
 import com.doston.model.User;
-import com.doston.service.FollowService;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import com.doston.enumeration.Gender;
+import com.doston.bot.botutil.BotUtil;
 import com.doston.service.PostService;
 import com.doston.service.UserService;
+import com.doston.enumeration.Language;
+import com.doston.service.FollowService;
+import com.doston.bot.botutil.BotConstant;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.methods.send.SendPhoto;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.InlineKeyboardMarkup;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*;
 
 public class AccountBotService {
     private static final UserService userService = new UserService();

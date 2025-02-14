@@ -1,8 +1,7 @@
 package com.doston.service;
 
-import com.doston.model.BaseModel;
-
 import java.util.List;
+import com.doston.model.BaseModel;
 
 public interface BaseService<T extends BaseModel, R> {
 
